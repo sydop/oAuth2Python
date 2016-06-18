@@ -47,6 +47,12 @@ $ virtualenv oAuth2Python_venv
 $ ls
    oAuth2Python		oAuth2Python_venv
 $ source oAuth2Python_venv/bin/activate
+(oAuth2Python_venv) 192-168-1-112: jefflee$ pip install django
+(oAuth2Python_venv) 192-168-1-112: jefflee$ pip install djangorestframework
+(oAuth2Python_venv) 192-168-1-112: jefflee$ pip install pygments
+(oAuth2Python_venv) 192-168-1-112: jefflee$ pip install markdown
+(oAuth2Python_venv) 192-168-1-112: jefflee$ pip install django-filter
+
 (oAuth2Python_venv) 192-168-1-112: jefflee$ cd oAuth2Python
 </pre>
 #### run server
