@@ -46,7 +46,7 @@ $ cd Projects
 $ virtualenv oAuth2Python_venv
 $ ls
    oAuth2Python		oAuth2Python_venv
-$ source oAuth2Python_venv/bin/activate
+*$ source oAuth2Python_venv/bin/activate*
 (oAuth2Python_venv) xxxxx $ pip install django
 (oAuth2Python_venv) xxxxx $ pip install djangorestframework
 (oAuth2Python_venv) xxxxx $ pip install pygments
