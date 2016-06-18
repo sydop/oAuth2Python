@@ -54,4 +54,12 @@ $ source oAuth2Python_venv/bin/activate
 (oAuth2Python_venv) 192-168-1-112:oAuth2Python jefflee$ python manage.py runserver
 </pre>
 
+#### select tables in sqlite
+<pre>
+(oAuth2Python_venv) 192-168-1-112:oAuth2Python jefflee$ python manage.py dbshell
+SQLite version 3.8.10.2 2015-05-20 18:17:19
+Enter ".help" for usage hints.
+sqlite> 
+</pre>
+
 ###You can see http://localhost:8000
